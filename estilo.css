@@ -78,22 +78,6 @@ footer p {
 }
 
 /* animaciones*/
-h1:hover {
-	transform: scale(1.05);
-}
-
-main img:hover {
-	transform: scale(1.03) rotate(1deg);
-}
-
-a:hover {
-	color: #6e5de0;
-	text-decoration: underline;
-}
-
-h2:hover {
-	border-left: 10px solid #6e5de0; 
-}
 
 @keyframes aparecer {
 	from {
